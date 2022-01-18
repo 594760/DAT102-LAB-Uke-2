@@ -3,7 +3,7 @@ package Oppgave_4;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
-
+// HashMap
 public class main {
     public static void main(String[] args) {
         ArrayList<String> liste = new ArrayList<>();
